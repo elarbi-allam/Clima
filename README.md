@@ -51,6 +51,10 @@ En développant cette app, j'ai vraiment compris l'importance de la **gestion du
 
 C'est un projet clé dans mon parcours de futur expert Mobile !
 
+
+https://github.com/user-attachments/assets/0ac82081-c164-4cfd-a3cb-7968f4e03500
+
+
 ---
 
 ## ⚙️ Comment tester ?
